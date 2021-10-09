@@ -1,1 +1,1 @@
-🤷‍
+[![piksel's GitHub stats](https://github-readme-stats.vercel.app/api?username=piksel&show_icons=true&theme=jolly&bg_color=20,1b0039,300060,006250&title_color=66D9EF&text_color=e5dcced0&icon_color=F92672)](https://github.com/anuraghazra/github-readme-stats)
